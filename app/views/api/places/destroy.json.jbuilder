@@ -1,0 +1,1 @@
+json.message "This location has been deleted."

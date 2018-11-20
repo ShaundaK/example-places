@@ -1,0 +1,1 @@
+json.error @place.errors.full_messages
